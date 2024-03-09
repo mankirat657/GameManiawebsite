@@ -1182,6 +1182,9 @@ opacity: 0;
     .sliders{
         flex-direction: column;
     }
+    body{
+overflow:hidden;
+    }
    .sliders .card{
         width: 66vw;
         height: 61vh;
