@@ -1182,8 +1182,8 @@ opacity: 0;
     .sliders{
         flex-direction: column;
     }
-    body{
-overflow:hidden;
+     ::-webkit-scrollbar{
+        display: none;
     }
    .sliders .card{
         width: 66vw;
