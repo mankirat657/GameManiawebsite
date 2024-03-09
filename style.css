@@ -1185,6 +1185,9 @@ opacity: 0;
      ::-webkit-scrollbar{
         display: none;
     }
+    .cursor , .cursor2{
+    display:none;
+    }
    .sliders .card{
         width: 66vw;
         height: 61vh;
